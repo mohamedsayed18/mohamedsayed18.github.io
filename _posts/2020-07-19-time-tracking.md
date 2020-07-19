@@ -4,7 +4,7 @@ title:  "Time Tracking"
 categories: [ Jekyll ]
 image: assets/images/sandclock.jpg
 ---
-image form [freepik](<a href='https://www.freepik.com/free-photos-vectors/business'>Business photo created by freepik - www.freepik.com</a>)
+<a href='https://www.freepik.com/free-photos-vectors/business'>Business photo created by freepik - www.freepik.com</a>
 
 Defining your problem is the first step to solve it. So for this week the challenge was to track my time for a week, and it was amazing.
 
